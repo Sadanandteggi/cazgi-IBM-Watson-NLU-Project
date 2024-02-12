@@ -1,2 +1,2 @@
-API_KEY = 'AYWIYKhCmbq5BICABiO2sEqQwOR1vRMrKB3y1iP_Oyow'
-API_URL = 'https://api.au-syd.natural-language-understanding.watson.cloud.ibm.com/instances/5015384a-4d28-41a7-b8c3-fa106886e307'
+API_KEY = ''
+API_URL = ''
